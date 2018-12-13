@@ -1,4 +1,4 @@
-package com.playground.knowit.kn_swapi_playground
+package com.playground.knowit.knswapiplayground
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
